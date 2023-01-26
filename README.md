@@ -7,5 +7,3 @@ Share your generations in our [mastodon server](https://social.duti.tech/) - (Th
 
 The instructions are on the Colab.
 
-# Stargazers
-[![Star History Chart](https://api.star-history.com/svg?repos=acheong08/Diffusion-ColabUI&type=Date)](https://star-history.com/#acheong08/Diffusion-ColabUI&Date)
